@@ -9,7 +9,7 @@ export default function Footer() {
                     <div className="mb-6 md:mb-0">
                         <Link to="/" className="flex items-center">
                             <img
-                                src="https://alexharkness.com/wp-content/uploads/2020/06/logo-2.png"
+                                src="https://www.shutterstock.com/shutterstock/photos/1294111228/display_1500/stock-vector-infinity-sign-vector-illustration-1294111228.jpg"
                                 className="mr-3 h-16"
                                 alt="Logo"
                             />
@@ -21,7 +21,7 @@ export default function Footer() {
                             <ul className="text-gray-500 font-medium">
                                 <li className="mb-4">
                                     <Link to="/" className="hover:underline">
-                                        Home
+                                       Sunil
                                     </Link>
                                 </li>
                                 <li>
